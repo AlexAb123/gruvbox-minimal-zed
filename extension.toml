@@ -1,0 +1,7 @@
+id = "gruvbox-minimal"
+name = "Gruvbox Minimal"
+version = "0.0.1"
+schema_version = 1
+authors = ["AlexAb123"]
+description = "A minimal take on the Gruvbox theme"
+repository = "https://github.com/AlexAb123/gruvbox-minimal-zed"
